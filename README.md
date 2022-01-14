@@ -19,3 +19,6 @@ Current version in a nutshell:
 
 ![resim](https://user-images.githubusercontent.com/55497058/149451681-a956717e-eba4-49bc-aaf7-d39ca67eddc0.png)
 
+![resim](https://user-images.githubusercontent.com/55497058/149453062-2f897080-4e7e-4787-9a23-c3b8a0682fd4.png)
+
+![resim](https://user-images.githubusercontent.com/55497058/149453164-c365c517-cb50-4e4d-9f57-ff88a72f1c19.png)
